@@ -1,0 +1,32 @@
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.exe
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.deps.json
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.runtimeconfig.json
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.runtimeconfig.dev.json
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.dll
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\bin\Debug\net5.0\ref\MultiToolThingy.dll
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.pdb
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.csprojAssemblyReference.cache
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.AssemblyInfoInputs.cache
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.AssemblyInfo.cs
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.csproj.CoreCompileInputs.cache
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.dll
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\obj\Debug\net5.0\ref\MultiToolThingy.dll
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.pdb
+C:\Users\YoussefCraft\Desktop\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.genruntimeconfig.cache
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.exe
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.deps.json
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.runtimeconfig.json
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.runtimeconfig.dev.json
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.dll
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\bin\Debug\net5.0\ref\MultiToolThingy.dll
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\bin\Debug\net5.0\MultiToolThingy.pdb
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.csprojAssemblyReference.cache
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.AssemblyInfoInputs.cache
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.AssemblyInfo.cs
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.csproj.CoreCompileInputs.cache
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.dll
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\obj\Debug\net5.0\ref\MultiToolThingy.dll
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.pdb
+C:\Users\YoussefCraft\Desktop\Chaos applications\MultiToolThingy\obj\Debug\net5.0\MultiToolThingy.genruntimeconfig.cache
